@@ -23,7 +23,7 @@ const Install = () => {
         <Header />
         <InstallForm />
         <div className='px-8 py-6 text-sm font-normal text-text-tertiary'>
-          © {new Date().getFullYear()} LangGenius, Inc. All rights reserved.
+          © {new Date().getFullYear()} Powered by TechCloud.sk
         </div>
       </div>
     </div>
