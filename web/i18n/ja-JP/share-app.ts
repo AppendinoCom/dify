@@ -14,7 +14,7 @@ const translation = {
     newChatDefaultName: '新規チャット',
     resetChat: 'チャットをリセット',
     viewChatSettings: '設定を確認',
-    poweredBy: 'Powered by',
+    poweredBy: 'Powered by TechCloud.sk',
     prompt: 'プロンプト',
     privatePromptConfigTitle: '個別設定',
     publicPromptConfigTitle: '共通プロンプト設定',
